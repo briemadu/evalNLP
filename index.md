@@ -40,7 +40,7 @@ Everyone is welcome to take this class, but you will profit more if you are alre
 - active participation in the course (presence in online group discussions and handing in exercises) (40% of final grade)
 - final project (60% of final grade)
  
-To pass the course, you must achieve a performance of at least 70% **on each of the items above separately**, which includes abiding by the guidelines listed [here](https://briemadu.github.io/revalNLP/guidelines).
+To pass the course, you must achieve a performance of at least 70% **on each of the items above separately**, which includes abiding by the guidelines listed [here](https://briemadu.github.io/evalNLP/guidelines).
 
 ## Contact
 Feel free to write me if you have any question or suggestion, or if you have any special needs (e.g. accessibility or name preference). I hope to see you soon! :wink:
