@@ -14,11 +14,11 @@ On our first meeting on Nov 4, I will introduce and motivate the topic in a live
 
 A pre-recorded video lecture (around 30 minutes) will be uploaded in the Moodle page every Sunday evening. You can watch it anytime you want before our official slot. 
 
-On Wednesdays at 12:00, we'll meet online for 60 minutes. We'll use the first 15 minutes for questions and comments about the week's content, then you'll work in small groups to discuss the current week's worksheet.
+On Wednesdays at 12:00, we'll meet online for 60 minutes. We'll use the first 15 minutes for questions and comments about the week's content, then you'll work in small groups to discuss the current week's worksheet. **Come to class prepared**, i.e., watch the video lecture **before** our meeting.
 
-Anytime before the following online session, you have to upload your solutions in Moodle. You can work in groups, but everyone must submit their own answers. 
+Anytime before the following online session, you have to upload your solutions in Moodle (there will be a link for that each week). You can work in groups, but everyone must submit their own answers. Late submissions are not allowed unless you have a medical reason.
 
-The worksheets will be mostly composed argumentative exercises (no programming). The answers will not be graded but a submission will be considered valid only if your solutions are coherent and complete. 
+The worksheets will be mostly composed argumentative exercises (no programming). The answers will not be graded but a submission will be considered valid if, and only if, your solutions are coherent and complete. Remember that the valid submission of at least 70% of the worksheets is a prerequisite to pass the course.
 
 ### Part II
 
@@ -34,7 +34,12 @@ You can choose between one of the following options:
 
 Guidelines about the format, length etc will be posted soon.
 
-There will be a link in Moodle for you to submit a pdf. 
+There will be a link in Moodle for you to submit a pdf file. 
 
 **Submission deadline for the final project: March 30, 2021, 23:59.**
 
+# Integrity
+
+* Any material you hand in must be your own. I will not grade work that contains plagiarism. If you are using external sources, [cite them properly](https://libguides.usc.edu/writingguide/citingsources). Still, do not copy text, use them only to support your arguments.
+* Help creating a nice environment for everyone: be polite, respect different opinions and help each other. Any kind of harassment is forbidden - contact me if you face any problem.
+* The material in Moodle is private and only accessible to participants of the course, so that every participant feels safe to expose their thoughts. Due to data protection, you are not allowed to share anything from Moodle anywhere.
