@@ -39,7 +39,7 @@ The course will be taught in English, but you can present and submit your assign
 Everyone is welcome to take this class, but you will profit more if you are already familiar with the main NLP tasks and methods. If you are in doubt, contact me :)
 
 ## Requirements and grading policy
-- active participation in the course (presence in online group discussions and handing in exercises) (40% of final grade)
+- active participation in the course (participation in online group discussions and handing in exercises) (40% of final grade)
 - final project (60% of final grade)
  
 To pass the course, you must achieve a performance of at least 70% **on each of the items above separately**, which includes abiding by the guidelines listed [here](https://briemadu.github.io/evalNLP/guidelines).
