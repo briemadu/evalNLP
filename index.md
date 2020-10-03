@@ -17,7 +17,7 @@ navigation_weight: 1
 :warning: The information here may still be changed or updated until Nov 2 without notice. After that, any modification will be discussed/announced in the Moodle forum.
 
 ## Description
-Baseline, F1 Score, black box, ablation, diagnostic, extrinsic/intrinsic, performance, annotation, metrics, human-based, test suite... Terms like these constantly show up in NLP papers, books and codes. What do they have in common? They are related to the evaluation process of systems. An adequate and fair evaluation is an essential step when building, analyzing and comparing model or algorithms. In this course, we will cover the main aspects of current Machine Learning evaluation methods and how the NLP community has been adapting them to the specific needs of different NLP tasks.
+Baseline, F1 Score, black box, ablation, diagnostic, extrinsic/intrinsic, performance, annotation, metrics, human-based, test suite... Terms like these constantly show up in NLP papers, books and codes. What do they have in common? They are related to the evaluation process of systems. An adequate and fair evaluation is an essential step when building, analyzing and comparing models or algorithms. In this course, we will cover the main aspects of current Machine Learning evaluation methods and how the NLP community has been adapting them to the specific needs of different NLP tasks.
 
 ## Goals
 - Become aware of the importance of evaluation in NLP
