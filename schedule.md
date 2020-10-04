@@ -15,7 +15,7 @@ navigation_weight: 3
 | 5 |02.12.2020 | Metrics |
 | 6 |09.12.2020 | Metrics |
 | 7 |16.12.2020 | Best practices |
-| Break |
+| | Break | | |
 | 8 |06.01.2021 | Case studies & presentations |
 | 9 |13.01.2021 | Case studies & presentations |
 |10 |20.01.2021 | Case studies & presentations |
