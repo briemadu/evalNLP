@@ -22,7 +22,7 @@ The worksheets will be mostly composed argumentative exercises (no programming).
 
 ### Part II
 
-After the Christmas break, we'll have student presentations about evaluation in specific NLP tasks. More details about the plan will be added here once I have an idea of the number of students taking the course.
+After the Christmas break, we'll have student presentations about evaluation in specific NLP tasks. More details about the plan and the format will be added here once I have an idea of the number of students taking the course.
 
 
 # Final project
