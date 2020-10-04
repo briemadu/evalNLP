@@ -11,7 +11,7 @@ navigation_weight: 3
 | 1 |04.11.2020 | Introduction |
 | 2 |11.11.2020 | Paradigms |
 | 3 |18.11.2020 | Common procedures |
-| 4 |25.11.2020 | nnotation |
+| 4 |25.11.2020 | Annotation |
 | 5 |02.12.2020 | Metrics |
 | 6 |09.12.2020 | Metrics |
 | 7 |16.12.2020 | Best practices |
