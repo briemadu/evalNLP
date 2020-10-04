@@ -9,15 +9,16 @@ navigation_weight: 3
 |Week| Date | Focus    |  Slides | 
 |----|----------|----------|----------|
 | 1 |04.11.2020 | Introduction |
-| 2 |11.11.2020 | |
-| 3 |18.11.2020 | |
-| 4 |25.11.2020 | |
-| 5 |02.12.2020 | |
-| 6 |09.12.2020 | |
-| 7 |16.12.2020 | |
-| 8 |06.01.2021 | |
-| 9 |13.01.2021 | |
-|10 |20.01.2021 | |
-| 11 |27.01.2021 | |
-| 12 |03.02.2021 | |
-| 13 |10.02.2021 | |
+| 2 |11.11.2020 | Paradigms |
+| 3 |18.11.2020 | Common procedures |
+| 4 |25.11.2020 | nnotation |
+| 5 |02.12.2020 | Metrics |
+| 6 |09.12.2020 | Metrics |
+| 7 |16.12.2020 | Best practices |
+| Break |
+| 8 |06.01.2021 | Case studies & presentations |
+| 9 |13.01.2021 | Case studies & presentations |
+|10 |20.01.2021 | Case studies & presentations |
+| 11 |27.01.2021 | Case studies & presentations|
+| 12 |03.02.2021 | Case studies & presentations |
+| 13 |10.02.2021 | Case studies & presentations |
