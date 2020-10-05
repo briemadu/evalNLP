@@ -9,3 +9,8 @@ This course will not follow a specific source. Each lecture will have links to c
 
 * JONES, Karen Sparck & GALLIERS, Julia R. Evaluating Natural Language Processing Systems: An Analysis and Review. Berlin: Springer, 1996. [link](https://opac.ub.uni-potsdam.de/DB=1/SET=1/TTL=1/SHW?FRST=2)
 
+A comprehensive overview is available at:
+
+* RESNIK, Philip & LIN, Jimmy. Evaluation of NLP Systems. In: Clark, Alexander; Fox, Chris & Lappin, Shalom (Eds.). The handbook of computational linguistics and natural language processing. John Wiley & Sons, 2013, chapter 11.
+
+A list of papers will be added here soon.
