@@ -43,7 +43,7 @@ Everyone is welcome to take this class, but you will profit more if you are alre
 - presentation [40% of final grade]
 - final project [40% of final grade]
  
-To pass the course, you must achieve a performance of at least 70% **on each of the items above separately**, which includes abiding by the guidelines listed [here](https://briemadu.github.io/evalNLP/guidelines).
+You can get between 0 and 10 points for each item. To pass the course, you must achieve a performance of at least 70% **on each of the items above separately**, which includes abiding by the guidelines listed [here](https://briemadu.github.io/evalNLP/guidelines).
 
 ## Contact
 Feel free to write me if you have any question or suggestion, or if you have any special needs (e.g. accessibility or name preference). I hope to see you soon! :wink:
