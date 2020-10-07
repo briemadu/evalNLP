@@ -11,6 +11,6 @@ This course will not follow a specific source. Each lecture will have links to c
 
 A comprehensive overview is available at:
 
-* RESNIK, Philip & LIN, Jimmy. Evaluation of NLP Systems. In: Clark, Alexander; Fox, Chris & Lappin, Shalom (Eds.). The handbook of computational linguistics and natural language processing. John Wiley & Sons, 2013, chapter 11.
+* RESNIK, Philip & LIN, Jimmy. Evaluation of NLP Systems. In: Clark, Alexander; Fox, Chris & Lappin, Shalom (Eds.). The handbook of computational linguistics and natural language processing. John Wiley & Sons, 2010, pp. 271-295.
 
 A list of papers will be added here soon.
