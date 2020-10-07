@@ -9,7 +9,7 @@ This course will not follow a single specific source. Each lecture will have lin
 
 Even though almost 25 years old, this textbook is a good companion for the course, available in the UP library (also as e-book):
 
-* SPÄRCK JONES, Karen & GALLIERS, Julia R. Evaluating Natural Language Processing Systems: An Analysis and Review. Berlin: Springer, 1996. [link](https://opac.ub.uni-potsdam.de/DB=1/SET=1/TTL=1/SHW?FRST=2)
+* SPÄRCK JONES, Karen & GALLIERS, Julia R. Evaluating Natural Language Processing Systems: An Analysis and Review. Berlin: Springer, 1996. [link](https://opac.ub.uni-potsdam.de/DB=1/SET=3/TTL=2/SHW?FRST=1)
 * GALLIERS, Julia R.; SPÄRCK JONES, Karen. Evaluating natural language processing systems. University of Cambridge, Computer Laboratory, 1993.
 
 A comprehensive overview is available at:
