@@ -14,10 +14,11 @@ Even though almost 25 years old, this textbook is a good companion for the cours
 
 A comprehensive overview is available at:
 
-* RESNIK, Philip & LIN, Jimmy. Evaluation of NLP Systems. In: Clark, Alexander; Fox, Chris & Lappin, Shalom (Eds.). The handbook of computational linguistics and natural language processing. John Wiley & Sons, 2010, pp. 271-295.
+* RESNIK, Philip & LIN, Jimmy. Evaluation of NLP Systems. In: Clark, Alexander; Fox, Chris & Lappin, Shalom (Eds.). The handbook of computational linguistics and natural language processing. John Wiley & Sons, pp. 271-295, 2010.
 
 Some other references (will be extended):
 
+* PAROUBEK, Patrick; CHAUDIRON, Stéphane & HIRSCHMAN, Lynette. Principles of Evaluation in Natural Language Processing. Traitement Automatique des Langues, ATALA, 48 (1), pp.7-31. hal- 00502700, 2007.
 * SPÄRCK JONES, Karen. Towards better NLP system evaluation. In: Human Language Technology: Proceedings of a Workshop held at Plainsboro, New Jersey, March 8-11, 1994. [link](https://www.aclweb.org/anthology/H94-1018.pdf)
 
 
