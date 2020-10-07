@@ -30,9 +30,11 @@ You can choose between one of the following options:
 
 **EvalNews**: feeling creative? You can be the editor-in-chief of the next edition of the EvalNLP Gazette. Summarize the content we covered in the course in the format of a small newspaper or magazine (like those distributed by students in campus or neighborhood news). Think of the many strategies that small newspapers use: interviews (you can interview real people of create a fictitious character), reports, comics, crosswords, trivia, ads, poetry, tips... use your imagination.
 
+**Real evaluation**: want some hands-on experience? You can choose an NLP algorithm (either one you implement or someone else's) and write a comprehensive evaluation report about it. 
+
 **Seminar paper**: prefer tradition? Then write a critical essay on the development and current state of evaluation procedure in NLP, discussing the positive and negative aspects and where to go from here. It has to be argumentative and use scientific literature to support your views.
 
-Guidelines about the format, length etc will be posted soon.
+Guidelines about the format, length, etc of each option will be posted soon.
 
 There will be a link in Moodle for you to submit a pdf file. 
 
