@@ -5,12 +5,19 @@ navigation_weight: 2
 ---
 ## :books: Bibliography :books:
 
-This course will not follow a specific source. Each lecture will have links to corresponding material. However, even though almost 25 years old, this textbook is a good companion for the course, available in the UP library (also as e-book):
+This course will not follow a single specific source. Each lecture will have links to corresponding material and I will also list relevant work here.
 
-* JONES, Karen Sparck & GALLIERS, Julia R. Evaluating Natural Language Processing Systems: An Analysis and Review. Berlin: Springer, 1996. [link](https://opac.ub.uni-potsdam.de/DB=1/SET=1/TTL=1/SHW?FRST=2)
+Even though almost 25 years old, this textbook is a good companion for the course, available in the UP library (also as e-book):
+
+* SPARCK JONES, Karen & GALLIERS, Julia R. Evaluating Natural Language Processing Systems: An Analysis and Review. Berlin: Springer, 1996. [link](https://opac.ub.uni-potsdam.de/DB=1/SET=1/TTL=1/SHW?FRST=2)
+* GALLIERS, Julia R.; SPARCK JONES, Karen. Evaluating natural language processing systems. University of Cambridge, Computer Laboratory, 1993.
 
 A comprehensive overview is available at:
 
 * RESNIK, Philip & LIN, Jimmy. Evaluation of NLP Systems. In: Clark, Alexander; Fox, Chris & Lappin, Shalom (Eds.). The handbook of computational linguistics and natural language processing. John Wiley & Sons, 2010, pp. 271-295.
 
-A list of papers will be added here soon.
+Some other references (will be extended):
+
+* SPARCK JONES, Karen. Towards better NLP system evaluation. In: Human Language Technology: Proceedings of a Workshop held at Plainsboro, New Jersey, March 8-11, 1994. [link](https://www.aclweb.org/anthology/H94-1018.pdf)
+
+
