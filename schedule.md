@@ -7,7 +7,7 @@ navigation_weight: 3
 ## Weekly Schedule
 
 |Week| Date | Focus    |  Slides | Reading |
-|----|----------|----------|----------|
+|----|----------|----------|----------|----------|
 | 1 |04.11.2020 | Introduction / Course guidelines |  |
 | 2 |11.11.2020 | Paradigms |  |
 | 3 |18.11.2020 | Common procedures |  |
