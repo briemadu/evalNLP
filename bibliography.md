@@ -20,7 +20,7 @@ Books & book chapters
 
 * DROR, Rotem; PELED-COHEN, Lotem; SHLOMOV, Segev & REICHART, Roi. Statistical Significance Testing for Natural Language Processing. Synthesis Lectures on Human Language Technologies, v. 13, n. 2, p. 1-116, 2020. [link](https://www.morganclaypool.com/doi/abs/10.2200/S00994ED1V01Y202002HLT045?casa_token=sFwy5BwuTSYAAAAA:wfzPR418bHmo7Pt_T1LEzL2SSVI648i2MIFGFEwNK1NKglsjq8cOYMRfHmPCk8Qo0EsW4pi9vvij)
 * HIRSCHMAN, Lynette; THOMPSON, Henry S. Overview of evaluation in speech and natural language processing. In: Survey of the state of the art in human language technology. Cambridge University Press, 1997. p. 409-414.
-* (*Evaluation*, Appendix B of) SMITH, Noah A. Linguistic Structure Prediction. Synthesis Lectures on Human Language Technologies, v. 4, n. 2, 2011. 
+* (*Experimentation*, Appendix B of) SMITH, Noah A. Linguistic Structure Prediction. Synthesis Lectures on Human Language Technologies, v. 4, n. 2, 2011. 
 [link](https://doi.org/10.2200/S00361ED1V01Y201105HLT013) 
 
 Papers (will be extended):
