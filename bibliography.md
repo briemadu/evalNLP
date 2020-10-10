@@ -34,5 +34,5 @@ Papers (will be extended)
 Miscellaneous
 
 * KING, Margaret. Evaluating natural language processing systems. Communications of the ACM, v. 39, n. 1, p. 73-79, 1996. [link](https://dl.acm.org/doi/abs/10.1145/234173.234208?casa_token=8KZTFYtxcXoAAAAA:x71qSj6riN8FnypzsDWZ3n8qIV8b0C5H14ToxWdQlLAYMqbWytVdAxmELv0QhyvuYfgCFFHhcYK_)
-* KING M., Maegaard B., Schütz J., des Tombes L., Bech A., Neville A., Arppe A., Balkan L., Brace C., Bunt H., Carlson L., Douglas S., Höge M., Krauwer S., Manzi S., Mazzi, C., Sieleman A. J., Steenbakkers R. (1996). EAGLES Evaluation of Natural Language Processing Systems: Final Report. EAGLES Document EAGEWG-PR. 2. Center for Sprogteknologi, Copenhagen. [link](https://www.issco.unige.ch/en/research/projects/ewg96/node1.html)
+* KING M., Maegaard B., Schütz J., des Tombes L., Bech A., Neville A., Arppe A., Balkan L., Brace C., Bunt H., Carlson L., Douglas S., Höge M., Krauwer S., Manzi S., Mazzi, C., Sieleman A. J., Steenbakkers R. EAGLES Evaluation of Natural Language Processing Systems: Final Report. EAGLES Document EAGEWG-PR. 2. Center for Sprogteknologi, Copenhagen, 1996. [link](https://www.issco.unige.ch/en/research/projects/ewg96/node1.html)
 
