@@ -13,7 +13,7 @@ navigation_weight: 3
 | 3 |18.11.2020 | Common procedures |  |
 | 4 |25.11.2020 | Annotation |  |
 | 5 |02.12.2020 | Metrics |  |
-| 6 |09.12.2020 | Metrics |  |
+| 6 |09.12.2020 | Statistical significance testing |  |
 | 7 |16.12.2020 | Best practices / Presentation guidelines |  |
 | Break |  |  |  |  |
 | 8 |06.01.2021 | Case studies & presentations |  |
