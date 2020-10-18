@@ -27,7 +27,7 @@ Papers (will be extended)
 
 * BARR, Valerie; KLAVANS, Judith L. Verification and validation of language processing systems: is it evaluation?. In: Proceedings of the ACL 2001 Workshop on Evaluation Methodologies for Language and Dialogue Systems. 2001. [link](https://www.aclweb.org/anthology/W01-0906.pdf)
 * BELINKOV, Yonatan & GLASS, James. Analysis methods in neural language processing: A survey. Transactions of the Association for Computational Linguistics, v. 7, p. 49-72, 2019. [link](https://www.aclweb.org/anthology/Q19-1004.pdf)
-* COHEN, Paul R.; HOWE, Adele E. How evaluation guides AI research: The message still counts more than the medium. AI magazine, v. 9, n. 4, p. 35-35, 1988. [link](https://doi.org/10.1609/aimag.v9i4.952 )
+* DROR, Rotem; BAUMER, Gili; BOGOMOLOV, Marina & REICHART, Roi. Replicability Analysis for Natural Language Processing: Testing Significance with Multiple Datasets. Transactions of the Association for Computational Linguistics, v. 5, p. 471-486, 2017. [link](https://www.aclweb.org/anthology/Q17-1033.pdf)
 * DROR, R., BAUMER, G., SHLOMOV, S., & REICHART, R. The hitchhiker’s guide to testing statistical significance in natural language processing. In: Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), p. 1383-1392, 2018. [link](https://www.aclweb.org/anthology/P18-1128/)
 * KING, Margaret. Evaluating natural language processing systems. Communications of the ACM, v. 39, n. 1, p. 73-79, 1996. [link](https://dl.acm.org/doi/abs/10.1145/234173.234208?casa_token=CwCV7waCKFIAAAAA:xhvxEl6RDm57vO0Oq9kqhCFWbAGz5yrdi0d9RlLnb-sRM8l4fEMaJhPcuXfkd0ps5yREAxvQDHrt)
 * NOVIKOVA, Jekaterina et al. Why We Need New Evaluation Metrics for NLG. In: Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, p. 2241-2252, 2017. [link](https://www.aclweb.org/anthology/D17-1238/)
@@ -38,6 +38,7 @@ Papers (will be extended)
 
 Miscellaneous
 
+* COHEN, Paul R.; HOWE, Adele E. How evaluation guides AI research: The message still counts more than the medium. AI magazine, v. 9, n. 4, p. 35-35, 1988. [link](https://doi.org/10.1609/aimag.v9i4.952 )
 * KING, Margaret. Evaluating natural language processing systems. Communications of the ACM, v. 39, n. 1, p. 73-79, 1996. [link](https://dl.acm.org/doi/abs/10.1145/234173.234208?casa_token=8KZTFYtxcXoAAAAA:x71qSj6riN8FnypzsDWZ3n8qIV8b0C5H14ToxWdQlLAYMqbWytVdAxmELv0QhyvuYfgCFFHhcYK_)
 * KING M., Maegaard B., Schütz J., des Tombes L., Bech A., Neville A., Arppe A., Balkan L., Brace C., Bunt H., Carlson L., Douglas S., Höge M., Krauwer S., Manzi S., Mazzi, C., Sieleman A. J., Steenbakkers R. EAGLES Evaluation of Natural Language Processing Systems: Final Report. EAGLES Document EAGEWG-PR. 2. Center for Sprogteknologi, Copenhagen, 1996. [link](https://www.issco.unige.ch/en/research/projects/ewg96/node1.html)
 
