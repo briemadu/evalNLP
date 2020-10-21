@@ -12,9 +12,9 @@ On our first meeting on Nov 4, I will introduce and motivate the topic in a live
 
 ### Part I
 
-A pre-recorded video lecture (around 30 minutes) will be uploaded in the Moodle page every weekend. You can watch it anytime you want before our official slot. Some weeks will also have additional reading material. 
+A pre-recorded video lecture (around 20 minutes) will be uploaded in the Moodle page every weekend with an overview of the main concepts. You can watch it anytime you want before our official slot. There will also be additional reading material with more details for deeper understanding. 
 
-On Wednesdays at 12:00, we'll meet online for 60 minutes. We'll use the first 15 minutes for questions and comments about the week's content, then you'll work in small groups to discuss the current week's worksheet. **Come to class prepared**, i.e., watch the video lecture and read the material **before** our meeting.
+On Wednesdays at 12:15, we'll meet online for 60 minutes. We'll use the first 15 minutes for questions and comments about the week's content, then you'll work in small groups to discuss the current week's worksheet. **Come to class prepared**, i.e., watch the video lecture and read the material **before** our meeting.
 
 Anytime before the following online session, you have to upload your solutions in Moodle (there will be a link for that each week). You can work in groups, but everyone must submit their own answers. Late submissions are not allowed unless you have a medical reason.
 
