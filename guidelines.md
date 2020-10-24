@@ -38,7 +38,7 @@ Guidelines about the format, length, etc of each option will be posted soon.
 
 There will be a link in Moodle for you to submit a pdf file. 
 
-**Submission deadline for the final project: March 30, 2021, 23:59.**
+**Submission deadline for the final project: March 31, 2021, 23:59.**
 
 # Integrity
 
