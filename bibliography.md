@@ -11,17 +11,15 @@ A comprehensive overview is available at:
 
 * RESNIK, Philip & LIN, Jimmy. Evaluation of NLP Systems. In: Clark, Alexander; Fox, Chris & Lappin, Shalom (Eds.). The handbook of computational linguistics and natural language processing. John Wiley & Sons, pp. 271-295, 2010.
 
-A good companion for the course, even though almost 25 years old:
-
-* SPÄRCK JONES, Karen & GALLIERS, Julia R. Evaluating Natural Language Processing Systems: An Analysis and Review. Berlin: Springer, 1996. [link](https://opac.ub.uni-potsdam.de/DB=1/SET=3/TTL=2/SHW?FRST=1)
-* GALLIERS, Julia R.; SPÄRCK JONES, Karen. Evaluating natural language processing systems. University of Cambridge, Computer Laboratory, 1993.
-
 Books & book chapters
 
 * DROR, Rotem; PELED-COHEN, Lotem; SHLOMOV, Segev & REICHART, Roi. Statistical Significance Testing for Natural Language Processing. Synthesis Lectures on Human Language Technologies, v. 13, n. 2, p. 1-116, 2020. [link](https://www.morganclaypool.com/doi/abs/10.2200/S00994ED1V01Y202002HLT045?casa_token=sFwy5BwuTSYAAAAA:wfzPR418bHmo7Pt_T1LEzL2SSVI648i2MIFGFEwNK1NKglsjq8cOYMRfHmPCk8Qo0EsW4pi9vvij)
+* GALLIERS, Julia R.; SPÄRCK JONES, Karen. Evaluating natural language processing systems. University of Cambridge, Computer Laboratory, 1993.
 * HIRSCHMAN, Lynette; THOMPSON, Henry S. Overview of evaluation in speech and natural language processing. In: Survey of the state of the art in human language technology. Cambridge University Press, 1997. p. 409-414.
 * (*Experimentation*, Appendix B of) SMITH, Noah A. Linguistic Structure Prediction. Synthesis Lectures on Human Language Technologies, v. 4, n. 2, 2011. 
 [link](https://doi.org/10.2200/S00361ED1V01Y201105HLT013) 
+* SPÄRCK JONES, Karen & GALLIERS, Julia R. Evaluating Natural Language Processing Systems: An Analysis and Review. Berlin: Springer, 1996. [link](https://opac.ub.uni-potsdam.de/DB=1/SET=3/TTL=2/SHW?FRST=1)
+
 
 Papers
 
