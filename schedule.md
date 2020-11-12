@@ -10,7 +10,7 @@ navigation_weight: 3
 |----|----------|----------|----------|
 | 1 |04.11.2020 | Introduction / Course guidelines | [link](https://github.com/briemadu/evalNLP/blob/master/slides/1-intro.pdf) 
 | 2 |11.11.2020 | Paradigms | [link](https://github.com/briemadu/evalNLP/blob/master/slides/2-paradigms.pdf) 
-| 3 |18.11.2020 | Common procedures |  [link] (https://github.com/briemadu/evalNLP/blob/master/slides/3-procedures.pdf)
+| 3 |18.11.2020 | Common procedures |  [link](https://github.com/briemadu/evalNLP/blob/master/slides/3-procedures.pdf)
 | 4 |25.11.2020 | Annotation |  
 | 5 |02.12.2020 | Metrics & Measurements |  
 | 6 |09.12.2020 | Statistical significance testing |  
