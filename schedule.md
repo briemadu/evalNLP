@@ -14,7 +14,7 @@ navigation_weight: 3
 | 4 |25.11.2020 | Annotation | [link](https://github.com/briemadu/evalNLP/blob/master/slides/4-annotation.pdf) 
 | 5 |02.12.2020 | Metrics & Measurements |  [link](https://github.com/briemadu/evalNLP/blob/master/slides/5-metrics.pdf)
 | 6 |09.12.2020 | Statistical significance testing |  [link](https://github.com/briemadu/evalNLP/blob/master/slides/6-statistical_significance.pdf)
-| 7 |16.12.2020 | Best practices / Presentation guidelines |  
+| 7 |16.12.2020 | Best practices / Presentation guidelines | [link](https://github.com/briemadu/evalNLP/blob/master/slides/7-best_practices.pdf) 
 | Break |  |  |   
 | 8 |06.01.2021 | Case studies & presentations |  
 | 9 |13.01.2021 | Case studies & presentations |  
