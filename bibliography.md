@@ -30,6 +30,7 @@ Papers
 * BERG-KIRKPATRICK, Taylor; BURKETT, David; KLEIN, Dan. An empirical investigation of statistical significance in nlp. In: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning, p. 995-1005, 2012. [link](https://www.aclweb.org/anthology/D12-1091.pdf)
 * DROR, Rotem; BAUMER, Gili; BOGOMOLOV, Marina & REICHART, Roi. Replicability Analysis for Natural Language Processing: Testing Significance with Multiple Datasets. Transactions of the Association for Computational Linguistics, v. 5, p. 471-486, 2017. [link](https://www.aclweb.org/anthology/Q17-1033.pdf)
 * DROR, R., BAUMER, G., SHLOMOV, S., & REICHART, R. The hitchhiker’s guide to testing statistical significance in natural language processing. In: Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), p. 1383-1392, 2018. [link](https://www.aclweb.org/anthology/P18-1128/)
+* ESCARTÍN, Carla Parra et al. Ethical Considerations in NLP Shared Tasks. In: Proceedings of the First ACL Workshop on Ethics in Natural Language Processing. 2017. p. 66-73. [link](https://www.aclweb.org/anthology/W17-1608.pdf)
 * FORT, Karën; ADDA, Gilles; COHEN, K. Bretonnel. Amazon mechanical turk: Gold mine or coal mine?. Computational Linguistics, v. 37, n. 2, p. 413-420, 2011. [link](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00057)
 * GORMAN, Kyle; BEDRICK, Steven. We need to talk about standard splits. In: Proceedings of the 57th annual meeting of the association for computational linguistics. 2019. p. 2786-2791. [link](https://www.aclweb.org/anthology/P19-1267.pdf)
 * HOVY, Dirk; SPRUIT, Shannon L. The social impact of natural language processing. In: Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers). 2016. p. 591-598. [link](https://www.aclweb.org/anthology/P16-2096.pdf)
@@ -51,3 +52,33 @@ Miscellaneous
 * POTTS, Christopher. Evaluation methods and metrics in NLP. 2020. [link](https://nbviewer.jupyter.org/github/cgpotts/cs224u/blob/master/evaluation_methods.ipynb) and [link](https://nbviewer.jupyter.org/github/cgpotts/cs224u/blob/master/evaluation_metrics.ipynb)
 * REITER, Ehud. His blog has several posts related to evaluation. [link](https://ehudreiter.com/)
 
+
+### Group presentations
+
+Dialogue
+
+* DERIU, Jan et al. Survey on evaluation methods for dialogue systems. Artificial Intelligence Review, p. 1-56, 2020. [link](https://link.springer.com/article/10.1007/s10462-020-09866-x)
+* LIU, Chia-Wei et al. How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation. In: Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing. 2016. p. 2122-2132. [link](https://www.aclweb.org/anthology/D16-1230.pdf)
+* DUSEK, O \& HUDECEK, V. Course about Dialogue Systems, 2019. [link](http://ufal.mff.cuni.cz/courses/npfl123)
+
+Machine Translation
+
+* CALLISON-BURCH, Chris et al. (Meta-) evaluation of machine translation. In: Proceedings of the Second Workshop on Statistical Machine Translation. 2007. p. 136-158. [link](https://www.aclweb.org/anthology/W07-0718.pdf)
+* CHATZIKOUMI, Eirini. How to evaluate machine translation: A review of automated and human metrics. Natural Language Engineering, v. 26, n. 2, p. 137-161, 2020. [link](https://www.cambridge.org/core/journals/natural-language-engineering/article/how-to-evaluate-machine-translation-a-review-of-automated-and-human-metrics/1005E82E4A0D7AD6F0FACA2F00083997)
+* MÜLLER, Mathias. Seven recommendations for machine translation evaluation. Blogpost on Dec 15, 2020. [link](https://bricksdont.github.io/posts/2020/12/seven-recommendations-for-mt-evaluation/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
+* RIEZLER, Stefan; MAXWELL III, John T. On some pitfalls in automatic evaluation and significance testing for MT. In: Proceedings of the ACL workshop on intrinsic and extrinsic evaluation measures for machine translation and/or summarization. 2005. p. 57-64. [link](https://www.aclweb.org/anthology/W05-0908.pdf)
+
+Natural Language Generation
+
+* CELIKYILMAZ, Asli; CLARK, Elizabeth; GAO, Jianfeng. Evaluation of Text Generation: A Survey. Preprint.  [link](https://arxiv.org/pdf/2006.14799.pdf) and [slides](https://nlg-world.github.io/Part-IV-Evaluation.pdf)
+* GATT, Albert; KRAHMER, Emiel. Survey of the state of the art in natural language generation: Core tasks, applications and evaluation. Journal of Artificial Intelligence Research, v. 61, p. 65-170, 2018. [link](https://www.jair.org/index.php/jair/article/view/11173)
+* HOWCROFT, David M. et al. Twenty years of confusion in human evaluation: NLG needs evaluation sheets and standardised definitions. In: Proceedings of the 13th International Conference on Natural Language Generation. 2020. p. 169-182. [link](https://www.aclweb.org/anthology/2020.inlg-1.23/)
+* NOVIKOVA, Jekaterina et al. Why We Need New Evaluation Metrics for NLG. In: Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing. 2017. p. 2241-2252. [link](https://www.aclweb.org/anthology/D17-1238.pdf)
+* REITER, Ehud; BELZ, Anja. An investigation into the validity of some metrics for automatically evaluating natural language generation systems. Computational Linguistics, v. 35, n. 4, p. 529-558, 2009. [link](https://www.mitpressjournals.org/doi/abs/10.1162/coli.2009.35.4.35405)
+* VAN DER LEE, Chris et al. Best practices for the human evaluation of automatically generated text. In: Proceedings of the 12th International Conference on Natural Language Generation. 2019. p. 355-368. [link](https://www.aclweb.org/anthology/W19-8643.pdf)
+
+
+Speech Synthesis
+
+* LE MAGUER, Sébastian. Speech Synthesis Evaluation. Lecture in Saarland University, 2020. [link](http://www.coli.uni-saarland.de/courses/sprachsynthese/2020_SS/slides/SLM_tts_evaluation.pdf)
+* WAGNER, Petra et al. Speech Synthesis Evaluation—State-of-the-Art Assessment and Suggestion for a Novel Research Program. In: Proceedings of the 10th Speech Synthesis Workshop (SSW10). 2019. [link](https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_O_3-2.pdf)
