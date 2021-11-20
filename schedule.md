@@ -10,7 +10,7 @@ Contact me if you are interested on the slides.
 
 |Week| Date | Focus    |  Slides  |  
 |----|----------|----------|----------|
-| 1 |04.11.2020 | Introduction / Course guidelines | [link](https://github.com/briemadu/evalNLP/blob/master/slides/1-intro.pdf) |
+| 1 |04.11.2020 | Introduction / Course guidelines | |
 | 2 |11.11.2020 | Paradigms |  |
 | 3 |18.11.2020 | Common procedures |  |
 | 4 |25.11.2020 | Annotation |  |
