@@ -1,0 +1,9 @@
+theme: jekyll-theme-dinky
+
+title: "Aufbauphase: Methoden der Computer- linguistik"
+
+plugins:
+  - jekyll-feed
+  - jemoji
+  - jekyll-sitemap
+  
