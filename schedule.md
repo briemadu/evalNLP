@@ -6,7 +6,9 @@ navigation_weight: 3
 
 ## Weekly Schedule
 
-Contact me if you are interested on the slides.
+**Contact me if you are interested on the slides.**
+
+*CORRETION: If you downloaded the slides a while ago, in slides 13 and 14 about statistical significance testing it should be >= (instead of >) in the if statement of the algorithms.*
 
 |Week| Date | Focus    |  Slides  |  
 |----|----------|----------|----------|
